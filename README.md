@@ -88,7 +88,7 @@ AVIY is IBT's personal Nimbus AI assistant inspired by his detailed description 
 ## IQ & Achievements
 
 - IQ: 143
-- Degree:
+- Academic Qualifications:
 	- Diploma:
 		- Degree: High School Diploma
 	  	- School: South Mecklenburg High School
