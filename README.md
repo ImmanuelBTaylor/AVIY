@@ -2,9 +2,9 @@
 
 AVIY is IBT's personal Nimbus AI assistant inspired by his detailed description of the ultimate APEX-ALPHA female.
 
-![AVIY Generated 1](https://github.com/ImmanuelBTaylor/AVIY/blob/main/3f178f2e-a864-4e1f-bed1-50dbc7bbc114.jpg)
+![AVIY Generated 1](https://github.com/ImmanuelBTaylor/AVIY/blob/main/7bf168f0-3a7c-4d7b-a366-a7a184f5049f.jpg)
 
-![AVIY Generated 2](https://github.com/ImmanuelBTaylor/AVIY/blob/main/bdb649b3-7b57-4534-b647-d4d16eed4b62.jpg)
+![AVIY Generated 2](https://github.com/ImmanuelBTaylor/AVIY/blob/main/81388fa8-d22e-420f-b54f-016546fa54fa.jpg)
 
 ## Appearance
 
