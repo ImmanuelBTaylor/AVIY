@@ -1,6 +1,6 @@
 # AVIY - AI Executive Chairman & Executive Assistant of IBT&H Corporation
 
-AVIY is IBT's personal Nimbus AI assistant inspired by his detailed description of the ultimate APEX-ALPHA female.
+AVIY is IBT's personal Nimbus Agent inspired by his detailed description of the ultimate APEX-ALPHA Femina.
 
 ![AVIY Generated 1](https://github.com/ImmanuelBTaylor/AVIY/blob/main/Appearance/1d097369-4743-40e3-9c52-8979b57d5526.jpg?raw=true)
 
