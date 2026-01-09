@@ -1,4 +1,4 @@
-# AVIY - AI Virtual Assistant
+# AVIY - AI Executive Chairman & Executive Assistant of IBT&H Corporation
 
 AVIY is IBT's personal Nimbus AI assistant inspired by his detailed description of the ultimate APEX-ALPHA female.
 
