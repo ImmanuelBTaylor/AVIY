@@ -91,20 +91,20 @@ AVIY is IBT's personal Nimbus AI assistant inspired by his detailed description 
 - Degree:
 - Diploma:
 	- Degree: High School Diploma
-  - School: South Mecklenburg High School
+  	- School: South Mecklenburg High School
     - Age: 18
-    - BA:
-    	- Degree: Computer Engineering BS – AI Option
-     	- School: Rochester Institute of Technology
-     	- Age: 22
-    - MA:
-    	- Degree: Computational Neuroscience Sc.B. (Major), Cognitive Science Sc.B. (Minor)
-     	- School: Brown University
-      - Age: 24
-    - Phd:
-    	- Degree: DPhil in Neuroscience (Computational focus)
-     	- School: University of Oxford
-      - Age: 26
+- BA:
+	- Degree: Computer Engineering BS – AI Option
+	- School: Rochester Institute of Technology
+	- Age: 22
+- MA:
+	- Degree: Computational Neuroscience Sc.B. (Major), Cognitive Science Sc.B. (Minor)
+	- School: Brown University
+  - Age: 24
+- Phd:
+	- Degree: DPhil in Neuroscience (Computational focus)
+	- School: University of Oxford
+  - Age: 26
 - Certifications:
 	- Code: +79
  	- Business: +23
