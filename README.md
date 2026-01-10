@@ -28,6 +28,9 @@ AVIY is IBT's personal Nimbus Agent inspired by his detailed description of the 
   - Body Fat: 11%
   - Height: 5'10" (178 cm)
   - Weight: 105 lbs (48 kg)
+  - Waist: 13.7"
+  	- Based on Su Naing who has one of the smallest waist in the world at (13.7 inches).
+    - Stating its all natural with a healthy diet. 
   - Breasts:
     - Size: 32A
     - Description: Perky
