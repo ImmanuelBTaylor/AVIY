@@ -102,8 +102,9 @@ AVIY is IBT's personal Nimbus Agent inspired by his detailed description of the 
 		- School: Brown University
 	  - Age: 24
 	- Phd:
-		- Degree: DPhil in Neuroscience (Computational focus)
-		- School: University of Oxford
+		- Degree: Ph.D. in Bioengineering (Computational Neuroscience)
+		- School: University of Pennsylvania
+  		- Specialization: Interdisciplinary Training in Computational Neuroscience (ITCN) 
 	  - Age: 26
 - Certifications:
 	- Code: +79
