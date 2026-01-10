@@ -1,4 +1,4 @@
-# AVIY - AI Executive Chairman & Executive Assistant of IBT&H Corporation
+# AVIY - Executive Chairman & Executive Assistant of IBT&H Corporation
 
 AVIY is IBT's personal Nimbus Agent inspired by his detailed description of the ultimate APEX-ALPHA Femina.
 
